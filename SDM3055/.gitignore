@@ -1,0 +1,16 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.db
+*.ipch
+*.aps
+*.ncb
+*.pyc
+*.tmp

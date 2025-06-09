@@ -1,0 +1,1 @@
+IP: shift+utility --> I/O Config --> LAN Settings --> Modify settings.
